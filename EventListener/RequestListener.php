@@ -1,6 +1,6 @@
 <?php
 
-namespace Elao\BrowserDetectorBundle\EventListener;
+namespace Elao\Bundle\BrowserDetectorBundle\EventListener;
 
 use Symfony\Component\HttpKernel\Event\GetResponseEvent;
 use Symfony\Component\HttpKernel\HttpKernel;
